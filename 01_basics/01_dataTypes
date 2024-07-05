@@ -1,0 +1,16 @@
+const name = "Kunal Saini"
+let age = 24
+let isRainingToday = true
+
+
+//number
+//string => ''
+//boolean => true/false
+//null
+//undefined
+//symbol => unique
+
+//object
+
+
+console.log(typeof name)
